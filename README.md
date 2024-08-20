@@ -1,4 +1,4 @@
-# First Demo Project (A Form in a Food Delivery App)
+# First Demo Project with Food Delivery App.
 ### This a Demo Project Created for the [Udemy Course - React Hook Form](https://bit.ly/3WQCZSK).
 ![Form Created with React Hook Form](https://github.com/CodAffection/Premium-React-Hook-Form-Course-with-Food-Delivery-App/assets/32505654/255b4daf-7254-49ce-b6f5-3b2f6fab8562)
 
